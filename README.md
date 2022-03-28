@@ -5,6 +5,8 @@
 
 - 👀 I’m interested in downhill (cycling), ethical hacking, music, tennis, web dev and new technology.
 
+- ⚡ I run my own shop with clothes for cyclists <a href="https://conebike.pl/" target="_blank">Conebike.pl</a> 
+
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
 
 - 🔖 You can get my cv <a href="https://github.com/frizz000/Me/blob/20013c77ab0ed25945f1adb4b4d3c74200905f32/CV%20Piotr%20Ja%C5%82ocha.docx">here</a>                    
