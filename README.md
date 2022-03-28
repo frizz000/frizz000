@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
 
-- 🥎 & 🚲 I’m  a bicycle and tennis instructor <a href="https://www.totalbikes.pl/" target="_blank">at Totalbikes.pl</a> 
+- 🥎 & 🚲 I’m  a bicycle and tennis instructor at <a href="https://www.totalbikes.pl/" target="_blank">Totalbikes.pl</a> 
 
 - 🔖 You can get my cv <a href="https://github.com/frizz000/Me/blob/20013c77ab0ed25945f1adb4b4d3c74200905f32/CV%20Piotr%20Ja%C5%82ocha.docx">here</a>                    
 
