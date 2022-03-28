@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I’m Piotrek Jałocha</h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
+<img src="https://www.totalbikes.pl/wp-content/uploads/2022/01/ja%C5%82och-copy.jpg" alt="me" width="1368" height="910"/>
+
 ### 🧑🏻‍🏫&nbsp;Few words about Me
 
 - 👀 I’m interested in downhill (cycling), ethical hacking, music, tennis, web dev and new technology.
@@ -8,6 +10,8 @@
 - ⚡ I run my own shop with clothes for cyclists <a href="https://conebike.pl/" target="_blank">Conebike.pl</a> 
 
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
+
+- 🥎 & 🚲 I’m  a bicycle and tennis instructor.
 
 - 🔖 You can get my cv <a href="https://github.com/frizz000/Me/blob/20013c77ab0ed25945f1adb4b4d3c74200905f32/CV%20Piotr%20Ja%C5%82ocha.docx">here</a>                    
 
