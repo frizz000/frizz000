@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Piotrek</h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
-<img src="https://www.totalbikes.pl/wp-content/uploads/2022/01/ja%C5%82och-copy.jpg" alt="me"/>
+<img src="https://www.totalbikes.pl/wp-content/uploads/2022/01/ja%C5%82och-copy.jpg" alt="me" width="1138" height="757"/>
 
 ### 🧑🏻‍🏫&nbsp;Few words about Me
 
