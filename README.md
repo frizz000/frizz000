@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Piotrek</h1>
+<h1 align="center">👋 Hi, I’m <Piotrek/></h1>
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
 <p align="center">
