@@ -9,7 +9,7 @@
 
 - 🔖 You can get my cv <a href="">here</a>                    
 
-- 📫 How to reach me: <a href=mailto:piotr.jalocha2001@gmail.com>--piotr.jalocha2001@gmail.com--</a>
+- 📫 How to reach me: <a href=mailto:piotr.jalocha2001@gmail.com>piotr.jalocha2001@gmail.com</a>
 
 <h3 align="center">Languages and Tools:</h3>
 
