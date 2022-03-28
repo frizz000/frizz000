@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
 
-- 🔖 You can get my cv <a href="">here</a>                    
+- 🔖 You can get my cv <a href="https://github.com/frizz000/Me/blob/20013c77ab0ed25945f1adb4b4d3c74200905f32/CV%20Piotr%20Ja%C5%82ocha.docx">here</a>                    
 
 - 📫 How to reach me: <a href=mailto:piotr.jalocha2001@gmail.com>piotr.jalocha2001@gmail.com</a>
 
