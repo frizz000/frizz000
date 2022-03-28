@@ -57,7 +57,6 @@
 
 <h3 align="center">My Website Projects:</h3>
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40"/>  
 
 ***Skatehead.studio*** - https://skatehead.studio/
 <br>
