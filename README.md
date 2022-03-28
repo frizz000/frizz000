@@ -53,10 +53,11 @@
     
    
    <h3 align="center">My Git Stats</h3> 
+   
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frizz000&show_icons=true)  
     
 
-</p>
+
 
 <h3 align="center">My Website Projects:</h3>
 <div align="center">
