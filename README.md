@@ -2,7 +2,10 @@
 <h3 align="center"> I'm a student of Computer Science at <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Polish-Japanese Academy of Information Technology</a>.</h3>
 
 <p align="center">
+</a>
+<a href="https://www.totalbikes.pl/o-nas/" target="_blank">    
 <img src="https://www.totalbikes.pl/wp-content/uploads/2022/01/ja%C5%82och-copy.jpg" alt="me" width="560" height="373"/>
+</a>    
 </p>
 
 ### 🧑🏻‍🏫&nbsp;Few words about Me
