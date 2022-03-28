@@ -3,7 +3,7 @@
 
 ### 🧑🏻‍🏫&nbsp;Few words about Me
 
-- 👀 I’m interested in downhill (cycling), music, tennis, web dev and new technology.
+- 👀 I’m interested in downhill (cycling), ethical hacking, music, tennis, web dev and new technology.
 
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
 
