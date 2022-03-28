@@ -51,10 +51,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
     
-   <p align="center">
+   
    <h3 align="center">My Git Stats</h3> 
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frizz000&show_icons=true)  
-    </p>
+    
 
 </p>
 
