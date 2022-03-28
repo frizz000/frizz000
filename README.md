@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
     <a href="https://www.kali.org/" target="_blank"> 
-    <img src="https://image.pngaaa.com/700/562700-middle.png" alt="kali" width="40" height="40"/> 
+    <img src="https://www.pinclipart.com/picdir/middle/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" alt="kali" width="40" height="40"/> 
     </a>
     <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
