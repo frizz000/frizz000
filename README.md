@@ -67,7 +67,8 @@
 ***avocadocatering.pl*** - https://avocadocatering.pl/
 <br>
 ***klubprogress.pl (in progess)*** - https://klubprogress.pl/
-
+<br>
+***Loam.pl*** - https://loam.pl/
 </div>
 
 
