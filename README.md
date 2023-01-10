@@ -14,6 +14,8 @@
 
 - ⚡ I run my own shop with clothes for cyclists <a href="https://conebike.pl/" target="_blank">Conebike.pl</a> 
 
+- ⚡ I run my own web development company <a href="https://conewebdesign.pl/" target="_blank">Conewebdesign.pl</a> 
+
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
 
 - 🚲 I’m  a bicycle instructor at <a href="https://www.totalbikes.pl/" target="_blank">Totalbikes.pl</a> 
