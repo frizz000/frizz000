@@ -18,7 +18,7 @@
 
 - 🥎 & 🚲 I’m  a bicycle and tennis instructor at <a href="https://www.totalbikes.pl/" target="_blank">Totalbikes.pl</a> 
 
-- 🔖 You can get my cv <a href="https://github.com/frizz000/Me/blob/20013c77ab0ed25945f1adb4b4d3c74200905f32/CV%20Piotr%20Ja%C5%82ocha.docx">here</a>                    
+- 🔖 You can get my cv <a href="https://github.com/frizz000/frizz000/blob/5d178c19d715c2c7019c370353b74dab973afe32/PiotrJalochaCV.pdf">here</a>                    
 
 - 📫 How to reach me: <a href=mailto:piotr.jalocha2001@gmail.com>piotr.jalocha2001@gmail.com</a>
 
