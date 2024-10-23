@@ -18,11 +18,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, Python, Kali Linux, Java, Unity and C++.
 
-- 🚲 I’m  a bicycle instructor at <a href="https://www.totalbikes.pl/" target="_blank">Totalbikes.pl</a> 
-
-- 🔖 You can get my cv <a href="https://github.com/frizz000/frizz000/blob/5d178c19d715c2c7019c370353b74dab973afe32/PiotrJalochaCV.pdf">here</a>                    
-
-- 📫 How to reach me: <a href=mailto:piotr.jalocha2001@gmail.com>piotr.jalocha2001@gmail.com</a>
+- 🚲 I’m  a bicycle instructor at <a href="https://www.totalbikes.pl/" target="_blank">Totalbikes.pl</a>                  
 
 <h3 align="center">Languages and Tools:</h3>
 
