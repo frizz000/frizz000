@@ -45,25 +45,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
     
-   
-  
-
-
-<h3 align="center">My Website Projects:</h3>
-<div align="center">
-
-***Skatehead.studio*** - https://skatehead.studio/
-<br>
-***Conebike.pl*** - https://conebike.pl/
-<br>
-***Tripul.pl*** - https://tripul.pl/
-<br>
-***avocadocatering.pl*** - https://avocadocatering.pl/
-<br>
-***klubprogress.pl (in progess)*** - https://klubprogress.pl/
-<br>
-***Loam.pl*** - https://loam.pl/
-</div>
 
 
 <h3 align="center">Contact me:</h3>
@@ -71,5 +52,5 @@
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piotrek_jalocha/) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-ja%C5%82ocha-a48758230/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotr.jalocha2001@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotr.jalochaa@gmail.com)
 </div>
