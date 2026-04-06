@@ -11,19 +11,15 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a Computer Science graduate from **Polish-Japanese Academy of Information Technology (PJATK)**, currently finishing my Master's degree. I work as a **programming instructor** teaching kids and teens, and I run my own homelab where I automate everything I can.
 
-- 🎓 **BSc + MSc (in progress)** — Computer Science, PJATK Warsaw
-- 👨‍🏫 **Programming Instructor** — teaching Python, C#, Java to kids & teens
-- 🏠 **Smart Home Expert** — Home Assistant, Zigbee2MQTT, Matter, Proxmox
-- 🚵 **Downhill & Enduro MTB** rider in my free time
-- 📍 Based in **Otwock, Poland**
-
----
+🎓 **BSc + MSc (in progress)** — Computer Science, PJATK Warsaw  
+👨‍🏫 **Programming Instructor** — teaching Python, C#, Java to kids & teens  
+🏠 **Smart Home Expert** — Home Assistant, Zigbee2MQTT, Matter, Proxmox  
+🚵 **Downhill & Enduro MTB** rider in my free time  
+📍 Based in **Otwock, Poland**
 
 ## 🛠️ Tech Stack
 
@@ -49,41 +45,25 @@ I'm a Computer Science graduate from **Polish-Japanese Academy of Information Te
 ![Zigbee](https://img.shields.io/badge/Zigbee2MQTT-EB0443?style=flat-square&logo=zigbee&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
----
-
 ## 🏠 My Homelab
 
-I run a self-hosted homelab on **Proxmox VE 8.4** with everything secured behind **Cloudflare Tunnels** — no open ports on my router.
+Running a self-hosted homelab on **Proxmox VE 8.4** with everything secured behind **Cloudflare Tunnels** — no open ports on the router.
 
 ```
 Internet → Cloudflare Tunnel → Proxmox 8.4
                                  ├── LXC: Home Assistant OS 17.0
                                  ├── LXC: NAS
-                                 └── LXC: Monitoring + DNS (AdGuard)
-                                 
+                                 ├── LXC: Monitoring + DNS (AdGuard)
+                                 └── LXC: Portfolio (Nginx → piotrjalocha.dev)
+
 Private network via Tailscale VPN
 ```
 
-**What's running:**
-- 🏠 **Home Assistant** — full home automation (lights, blinds, sensors, thermostat, TV)
-- 📡 **Zigbee2MQTT** — 15+ Zigbee devices
-- 🛡️ **AdGuard Home** — network-level ad blocking
-- 🔒 **Cloudflare Access** — zero-trust remote access
-- 🌐 **piotrjalocha.dev** — this portfolio, self-hosted
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Piotr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frizz000&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0d&title_color=22c55e&icon_color=22c55e&text_color=e8f5e9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frizz000&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0d&title_color=22c55e&text_color=e8f5e9)
-
-</div>
-
----
+🏠 **Home Assistant** — full home automation (lights, blinds, sensors, thermostat, TV)  
+📡 **Zigbee2MQTT** — 15+ Zigbee devices  
+🛡️ **AdGuard Home** — network-level ad blocking  
+🔒 **Cloudflare Tunnels + Access** — zero-trust remote access, no open ports  
+🌐 **piotrjalocha.dev** — this portfolio, self-hosted on Nginx
 
 ## 🎓 What I Teach
 
@@ -95,17 +75,13 @@ As a programming instructor I help students with:
 | 📝 Matura Exam | Past papers, algorithmics, practical tasks |
 | 💻 Programming | Python, C#, Java — from zero to project |
 
-> *I teach in Otwock (in-person) or online. No boring lectures — just practice.*
-> 
-> 👉 **[Book a session](https://piotrjalocha.dev/#contact)**
+No boring lectures, just practice. Lessons in Otwock (in-person) or online.
 
----
+👉 **[Book a session](https://piotrjalocha.dev/#contact)**
 
 ## 🚵 Beyond Code
 
-When I'm not coding or teaching, you'll find me on a mountain bike — **Downhill, Enduro and Dirt**. Riding steep trails teaches you the same thing as debugging: stay calm, read the situation, commit to the line.
-
----
+When I'm not coding or teaching, you'll find me on a mountain bike. Downhill, Enduro and Dirt. Riding steep trails teaches you the same thing as debugging: stay calm, read the situation, commit to the line.
 
 <div align="center">
 
