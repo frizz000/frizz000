@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 ******************************************   piotrek@github
 ******************************************   ───────────────
@@ -30,6 +28,8 @@
 ******%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%%%=...
 ******%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%%%+...
 ```
+
+<div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_piotrjalocha.dev-22c55e?style=for-the-badge)](https://piotrjalocha.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-jałocha/)
