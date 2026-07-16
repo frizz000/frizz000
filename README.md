@@ -1,8 +1,35 @@
 <div align="center">
 
-# Hey, I'm Piotr Jałocha 👋
-
-**Computer Science Engineer · Programming Instructor · Smart Home Enthusiast**
+```
+******************************************   piotrek@github
+******************************************   ───────────────
+++++++++++++++++++++++++++++++++++++++++++   OS: ................ Windows 11 / Debian (Proxmox)
++++++++++++++++++++++++++++++++++=--=+++++   Host: ............... PJATK Warsaw
+++++++++++++==++++=-==+++++**++=------=+++   Kernel: .............. BSc + MSc Computer Science
+------------++------------+%%+---=--=--=--   Uptime: .............. Programming instructor, 3+ yrs
+----------=#@@*------------++==--=--------   IDE: ................. VS Code, Rider
+:::---------+*+------------=:-------------
+:.:--------::-----------=====------------=   Languages.Code: ...... Python, C#, Java, JS, SQL
+.:----=====---------===+++++++====--====++   Languages.Markup: .... HTML5, CSS3
+:--===++++++===--==+++++++++++++++++++++++   Languages.Human: ..... Polish (native), English
+-==+*+++++++++++++++++++++++++++++++++++++
+:---*+====++++++++++++=====--===++++++++++   Hobbies.Outdoor: ..... Downhill & Enduro MTB, Freeride skiing
+:...=::----======-------:.....:::--=======   Hobbies.Home: ........ Home Assistant, Zigbee2MQTT, Proxmox
+-::.-:::....:::...............:::::.::....
+----:::..........:::-===-:....::::........   Contact.Web: ......... piotrjalocha.dev
+-------:::...:-=*#%%@@@@@%*-:.......::::..   Contact.Mail: ........ piotr.jalochaa@gmail.com
+::::-------+*#%%%%@@@@@@@@@@#+-:....::::::   Contact.LinkedIn: .... piotr-jałocha
+:::.:::::+%%%%%%%%@@@@@@@@@@%%%#+-..:-----   Contact.IG: .......... piotrek_jalocha
+:::....:*%%%%%%%%%@%%%%@@@@@%%%%%%=:::::::
+......:*%%%%%%%%%%%%######%@%%%%%%%*-:::::   GitHub ─────────────
+.....-#%%%%%%%%%%%@%++##**%@%%%%%%%%#=::::   Repos: 27 | Stars: 5 | Followers: 8 | Following: 13
+....:*%%%%%%%%%%%@@@%###%@@@@%%%%%%%%*....
+::=+*#%%%%%%%%%%%%@@@@@@@@@%@%%%%%%%%#:...
++****#%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%:...
+*****#%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%-...
+******%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%%%=...
+******%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%%%+...
+```
 
 [![Website](https://img.shields.io/badge/🌐_piotrjalocha.dev-22c55e?style=for-the-badge)](https://piotrjalocha.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-jałocha/)
@@ -18,7 +45,7 @@ I'm a Computer Science graduate from **Polish-Japanese Academy of Information Te
 🎓 **BSc + MSc (in progress)** — Computer Science, PJATK Warsaw  
 👨‍🏫 **Programming Instructor** — teaching Python, C#, Java to kids & teens  
 🏠 **Smart Home Expert** — Home Assistant, Zigbee2MQTT, Matter, Proxmox  
-🚵 **Downhill & Enduro MTB** rider in my free time  
+🚵 **Downhill & Enduro MTB / Freeride skiing** in my free time  
 📍 Based in **Otwock, Poland**
 
 ## 🛠️ Tech Stack
@@ -55,7 +82,6 @@ Internet → Cloudflare Tunnel → Proxmox 8.4
                                  ├── LXC: NAS
                                  ├── LXC: Monitoring + DNS (AdGuard)
                                  └── LXC: Portfolio (Nginx → piotrjalocha.dev)
-
 Private network via Tailscale VPN
 ```
 
@@ -81,7 +107,7 @@ No boring lectures, just practice. Lessons in Otwock (in-person) or online.
 
 ## 🚵 Beyond Code
 
-When I'm not coding or teaching, you'll find me on a mountain bike. Downhill, Enduro and Dirt. Riding steep trails teaches you the same thing as debugging: stay calm, read the situation, commit to the line.
+When I'm not coding or teaching, you'll find me on a mountain bike or on the slopes. Downhill, Enduro, Dirt and Freeride skiing. Reading the trail teaches you the same thing as debugging: stay calm, read the situation, commit to the line.
 
 <div align="center">
 
