@@ -1,35 +1,6 @@
-```
-******************************************   piotrek@github
-******************************************   ───────────────
-++++++++++++++++++++++++++++++++++++++++++   OS: ................ Windows 11 / Debian (Proxmox)
-+++++++++++++++++++++++++++++++++=--=+++++   Host: ............... PJATK Warsaw
-++++++++++++==++++=-==+++++**++=------=+++   Kernel: .............. BSc + MSc Computer Science
-------------++------------+%%+---=--=--=--   Uptime: .............. Programming instructor, 3+ yrs
-----------=#@@*------------++==--=--------   IDE: ................. VS Code, Rider
-:::---------+*+------------=:-------------
-:.:--------::-----------=====------------=   Languages.Code: ...... Python, C#, Java, JS, SQL
-.:----=====---------===+++++++====--====++   Languages.Markup: .... HTML5, CSS3
-:--===++++++===--==+++++++++++++++++++++++   Languages.Human: ..... Polish (native), English
--==+*+++++++++++++++++++++++++++++++++++++
-:---*+====++++++++++++=====--===++++++++++   Hobbies.Outdoor: ..... Downhill & Enduro MTB, Freeride skiing
-:...=::----======-------:.....:::--=======   Hobbies.Home: ........ Home Assistant, Zigbee2MQTT, Proxmox
--::.-:::....:::...............:::::.::....
-----:::..........:::-===-:....::::........   Contact.Web: ......... piotrjalocha.dev
--------:::...:-=*#%%@@@@@%*-:.......::::..   Contact.Mail: ........ piotr.jalochaa@gmail.com
-::::-------+*#%%%%@@@@@@@@@@#+-:....::::::   Contact.LinkedIn: .... piotr-jałocha
-:::.:::::+%%%%%%%%@@@@@@@@@@%%%#+-..:-----   Contact.IG: .......... piotrek_jalocha
-:::....:*%%%%%%%%%@%%%%@@@@@%%%%%%=:::::::
-......:*%%%%%%%%%%%%######%@%%%%%%%*-:::::   GitHub ─────────────
-.....-#%%%%%%%%%%%@%++##**%@%%%%%%%%#=::::   Repos: 27 | Stars: 5 | Followers: 8 | Following: 13
-....:*%%%%%%%%%%%@@@%###%@@@@%%%%%%%%*....
-::=+*#%%%%%%%%%%%%@@@@@@@@@%@%%%%%%%%#:...
-+****#%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%:...
-*****#%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%-...
-******%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%%%=...
-******%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%%%+...
-```
-
 <div align="center">
+
+<img width="1404" height="649" alt="neofetch" src="https://github.com/user-attachments/assets/93bb9ab8-bb86-4b85-9952-ff0e85cb3cdc" />
 
 [![Website](https://img.shields.io/badge/🌐_piotrjalocha.dev-22c55e?style=for-the-badge)](https://piotrjalocha.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-jałocha/)
