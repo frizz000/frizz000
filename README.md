@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1404" height="649" alt="neofetch" src="https://github.com/user-attachments/assets/93bb9ab8-bb86-4b85-9952-ff0e85cb3cdc" />
+<img width="824" height="671" alt="neofetch" src="https://github.com/user-attachments/assets/1aa4f0da-cb6b-4af7-88b0-6df5a5d26b64" />
+
 
 [![Website](https://img.shields.io/badge/🌐_piotrjalocha.dev-22c55e?style=for-the-badge)](https://piotrjalocha.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-jałocha/)
